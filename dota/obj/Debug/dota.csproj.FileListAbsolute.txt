@@ -1,0 +1,13 @@
+C:\Users\peces\source\repos\dota\dota\bin\Debug\dota.exe.config
+C:\Users\peces\source\repos\dota\dota\bin\Debug\dota.exe
+C:\Users\peces\source\repos\dota\dota\bin\Debug\dota.pdb
+C:\Users\peces\source\repos\dota\dota\obj\Debug\dota.csproj.AssemblyReference.cache
+C:\Users\peces\source\repos\dota\dota\obj\Debug\dota.add.resources
+C:\Users\peces\source\repos\dota\dota\obj\Debug\dota.autho.resources
+C:\Users\peces\source\repos\dota\dota\obj\Debug\dota.menu.resources
+C:\Users\peces\source\repos\dota\dota\obj\Debug\dota.Properties.Resources.resources
+C:\Users\peces\source\repos\dota\dota\obj\Debug\dota.registration.resources
+C:\Users\peces\source\repos\dota\dota\obj\Debug\dota.csproj.GenerateResource.cache
+C:\Users\peces\source\repos\dota\dota\obj\Debug\dota.csproj.CoreCompileInputs.cache
+C:\Users\peces\source\repos\dota\dota\obj\Debug\dota.exe
+C:\Users\peces\source\repos\dota\dota\obj\Debug\dota.pdb
